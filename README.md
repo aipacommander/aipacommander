@@ -84,6 +84,7 @@
     - 数学得意じゃないので、深堀り等は時間かかる
 - ディープラーニングのデファクトなOSSは一通り経験あるけど、最近はしらない（Keras、Tensorflow1.x ~ 2.x、PyTorch）
 - 論文読んで実装したこととかあるけど、めっちゃ時間かかったので数学を勉強したいとずっとおもっている（できていない）
+- MLOpsとか一時期着手する機会あって楽しいんだけど今はほとんど覚えていない（SageMarker、MLFlow、Kedro...）
 
 ### CI/CD
 - GitLab-runnerを使ってビルド、テスト、デプロイを回したことはある
@@ -146,3 +147,8 @@
     - [この前遊んでみたけど、いい感じ](https://www.aipacommander.com/entry/2022/03/15/005039)
     - terraformの方がクラウド変わってもええなとか思ってたけど、なｔのCDK for Terraformというのを最近見つけた！！ぜひスキルにしたい
         - https://www.terraform.io/cdktf
+
+# 勉強中
+- TypeScript
+- Vue 3.x
+- Serverless Framework
