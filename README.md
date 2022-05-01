@@ -150,5 +150,13 @@
 
 # 勉強中
 - TypeScript
+    - https://typescriptbook.jp/
+    - ↑は一通りみた（TypeScriptも勉強になったけど、どっちかつーとJavaScriptが学べた）
 - Vue 3.x
+    - Composition　API 完全に理解した()
+    - なれてきたけど、Storeが絡むと大変に難しいことを理解している（ベストプラクティスを模索中）
 - Serverless Framework
+    - TypeScriptで書くことを練習中
+
+    - terraformの方がクラウド変わってもええなとか思ってたけど、なｔのCDK for Terraformというのを最近見つけた！！ぜひスキルにしたいｋ
+    - terraformの方がクラウド変わってもええなとか思ってたけど、なｔのCDK for Terraformというのを最近見つけた！！ぜひスキルにしたい
