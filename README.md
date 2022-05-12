@@ -4,9 +4,10 @@
 ## できること
 
 ### 言語
-- Python
-- PHP
-- JavaScript
+- 任せてくれ
+    - Python
+    - PHP
+    - JavaScript
 - 経験あるけどモダンな書き方は知らない（ちょっと修正するぐらいなら大丈夫・ぐぐったらなんとかなる）
     - Java
     - C#
