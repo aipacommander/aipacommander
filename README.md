@@ -47,7 +47,6 @@
     - Flask
     - Laravel
     - Sinatra
-- 経験はあるけどもうほとんど忘れている
     - FuelPHP
     - CakePHP2.x ~ 3.x
     - PlayFramework
